@@ -1,0 +1,24 @@
+{
+  "name": "mycho",
+  "version": "0.1.0",
+  "description": "MyCho creates input fields in html files with javascript.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krizopraz/MyCho.git"
+  },
+  "keywords": [
+    "input",
+    "input",
+    "generator"
+  ],
+  "author": "Mustafa Değerli | Krizopraz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krizopraz/MyCho/issues"
+  },
+  "homepage": "https://github.com/krizopraz/MyCho#readme"
+}
